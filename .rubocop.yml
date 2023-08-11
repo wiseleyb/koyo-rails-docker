@@ -1,0 +1,8 @@
+Metrics/MethodLength:
+  Enabled: false
+
+AllCops:
+  NewCops: enable
+  DisplayCopNames: true
+  Exclude:
+    - "bin/**/*"
